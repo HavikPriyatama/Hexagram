@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hexagram</string>
+    <string name="logo_name">Hexagram</string>
+    <string name="login">Login</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="new_account">I\'m new here. Let me Register</string>
+    <string name="welcome">Welcome to Hexagram</string>
+    <string name="forgot_password_tittle">Forgot Your Password?</string>
+    <string name="send_email">Send Email</string>
+</resources>
